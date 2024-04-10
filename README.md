@@ -1,3 +1,3 @@
 # Cronometro-JS
 
-Cronômetro JavaScript
+Cronômetro que utiliza estrutura HTML com estilização CSS e lógica em JavaScript
